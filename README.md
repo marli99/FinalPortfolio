@@ -29,7 +29,7 @@
       <a href="https://github.com/username/projectname"><strong>Explore the docs »</strong></a>
    <br />
    <br />
-   <a href="https://youtu.be/-NTWfpaae70">View Demo</a>
+   <a href="https://youtu.be/-NTWfpaae70">View Promotional Video</a>
     ·
     <a href="https://github.com/username/projectname/issues">Report Bug</a>
     ·
@@ -79,23 +79,25 @@ My project is designed and developed to assist users when they are struggeling t
 ### Built With
 
 * [Android Studio](path/to/technology/website)
-![image](https://user-images.githubusercontent.com/55394634/141642715-3d3cfe3b-d810-4b30-815a-8c336d223a2d.png)
 * [IBM Watson](path/to/technology/website)
-![image](https://user-images.githubusercontent.com/55394634/141642734-66b79676-7d73-4303-a24a-0076d1ccf5e8.png)
 * [Firebace](path/to/technology/website)
-![image](https://user-images.githubusercontent.com/55394634/141642745-c4b4e0ed-1615-467d-a895-18dd767c6ffb.png)
-
 * [JAVA](path/to/technology/website)
 
 <!-- GETTING STARTED -->
 <!-- Make sure to add appropriate information about what prerequesite technologies the user would need and also the steps to install your project on their own mashines -->
 ## Getting Started
 
+Step1
 Create a new project on android studio
+
+Step2
+Go to IBM watson website sign in or create an account if you do not have
+
+
 
 ### Prerequisites
 
-Ensure that you have the latest version of [Android Studio](path/to/where/they/can/download/software) installed on your machine. The [Firebace](path/to/where/they/can/download/plugin) plugin will also be required.
+Ensure that you have the latest version of [Android Studio](path/to/where/they/can/download/software) installed on your machine.
 
 ### How to install
 
@@ -109,7 +111,7 @@ Enter `https://github.com/username/projectname.git` into the URL field and press
 2. Clone Repository </br>
 Run the following in the command-line to clone the project:
    ```sh
-   git clone https://github.com/username/projectname.git
+   git clone https://github.com/marli99/chatbot-watson-android-master-3.git
    ```
     Open `Software` and select `File | Open...` from the menu. Select cloned directory and press `Open` button
 
@@ -117,11 +119,6 @@ Run the following in the command-line to clone the project:
 Run the following in the command-line to install all the required dependencies:
    ```sh
    npm install
-   ```
-
-4. Get a free API Key at [https://example.com](https://example.com) and enter it in the `config.js` file:
-   ```js
-   const API_KEY = 'ENTER YOUR API';
    ```
 
 
@@ -152,12 +149,6 @@ IBM Text to speech, users can also talk to gill, using the recording button chan
 I found mental health interesting due to me struggeling with anxiety and depression and wanted to create an app that can assist with those problems. I really liked the application called WYSA designed to help users calm down when they are feeling anxious. I downloaded a couple of apps designed to assist users and wysa was for me the best and simplest to use. I based my layout and concept allot on wysa.
 ![image](https://user-images.githubusercontent.com/55394634/141642525-50bf65c3-3340-4461-9e7a-5df96a0601ee.png)
 
-
-### Ideation
-
-![image5][image5]
-<br>
-![image6][image6]
 
 ### Wireframes
 ![Categories](https://user-images.githubusercontent.com/55394634/141642808-5aa91d7d-2ecb-4e74-b261-013525f432e1.png)
@@ -195,18 +186,10 @@ The `Development Process` is the technical implementations and functionality don
 * `Plugin` for this.
 * ETC.
 
-#### Highlights
-<!-- stipulated the highlight you experienced with the project -->
-* Sunshine.
-* Rainbows.
-
 #### Challenges
 <!-- stipulated the challenges you faced with the project and why you think you faced it or how you think you'll solve it (if not solved) -->
 * Strugled with integrating AI assistant inside my project
 * Struggled with button functionality on onboardign screen
-
-### Reviews & Testing
-<!-- stipulate how you've conducted testing in the form of peer reviews, feedback and also functionality testing, like unit tests (if applicable) -->
 
 #### Feedback from Reviews
 
@@ -227,10 +210,10 @@ The `Development Process` is the technical implementations and functionality don
 ## Final Outcome
 
 ### Mockups
+![mockup](https://user-images.githubusercontent.com/55394634/141643189-7b8a4cbb-ea35-403f-bff8-2641bb22d41e.png)
+![DevMockup1_180234png](https://user-images.githubusercontent.com/55394634/141643257-5b0beb54-4f10-4a67-8520-8d1953653474.png)
+![DevMockup2_180234](https://user-images.githubusercontent.com/55394634/141643263-457fa99a-ce05-4fdd-98ea-e7ad327d1073.png)
 
-![image9][image9]
-<br>
-![image10][image10]
 
 <!-- VIDEO DEMONSTRATION -->
 ### Video Demonstration
@@ -240,9 +223,6 @@ To see a run through of the application, click below:
 [View Demonstration](path/to/video/demonstration)
 
 <!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/username/projectname/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -258,7 +238,7 @@ Contributions are what makes the open-source community such an amazing place to 
 <!-- AUTHORS -->
 ## Authors
 
-* **Your Name & Surname** - [username](https://github.com/username)
+* **Marli Correia** - [marli99](https://github.com/marli99)
 
 <!-- LICENSE -->
 ## License
@@ -268,8 +248,8 @@ Distributed under the MIT License. See `LICENSE` for more information.\
 <!-- LICENSE -->
 ## Contact
 
-* **Your Name & Surname** - [email@address](mailto:email@address) - [@instagram_handle](https://www.instagram.com/instagram_handle/) 
-* **Project Link** - https://github.com/username/projectname
+* **Marli Correia** - [email@address](mailto:marlicorreia99@gmail.com) 
+* **Project Link** - https://github.com/marli99/chatbot-watson-android-master-3
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
@@ -280,18 +260,6 @@ Distributed under the MIT License. See `LICENSE` for more information.\
 * [Resource Name](path/to/resource)
 * [Resource Name](path/to/resource)
 
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[image1]: /path/to/image.png
-[image2]: /path/to/image.png
-[image3]: /path/to/image.png
-[image4]: /path/to/image.png
-[image5]: /path/to/image.png
-[image6]: /path/to/image.png
-[image7]: /path/to/image.png
-[image8]: /path/to/image.png
-[image9]: /path/to/image.png
-[image10]: /path/to/image.png
 
 
 <!-- Refer to https://shields.io/ for more information and options about the shield links at the top of the ReadMe file -->
