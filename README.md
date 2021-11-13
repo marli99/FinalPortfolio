@@ -14,12 +14,12 @@
 <!-- HEADER SECTION -->
 <h5 align="center" style="padding:0;margin:0;">Marli Correia</h5>
 <h5 align="center" style="padding:0;margin:0;">180234</h5>
-<h6 align="center">SubjectInteractive Development 300</h6>
+<h6 align="center">Interactive Development 300</h6>
 </br>
 <p align="center">
 
   <a href="https://github.com/username/projectname">
-    <img src="path/to/logo" alt="Logo" width="140" height="140">
+    <img src="![SoothWellLogosBlack](https://user-images.githubusercontent.com/55394634/141642618-94501c8c-f62a-4cd5-9bed-7ef7bd7e8117.png)" alt="Logo" width="140" height="140">
   </a>
   
   <h3 align="center">Soothwell</h3>
