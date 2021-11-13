@@ -19,13 +19,13 @@
 <p align="center">
 
   <a href="https://github.com/username/projectname">
-    <img src="![SoothWellLogosBlack](https://user-images.githubusercontent.com/55394634/141642618-94501c8c-f62a-4cd5-9bed-7ef7bd7e8117.png)" alt="Logo" width="140" height="140">
+    <img src="(https://user-images.githubusercontent.com/55394634/141642618-94501c8c-f62a-4cd5-9bed-7ef7bd7e8117.png)" alt="Logo" width="140" height="140">
   </a>
   
   <h3 align="center">Soothwell</h3>
 
   <p align="center">
-    Short Project Slogan / Description <br>
+    Live life to the fullest and remember their is no rainbow without rain<br>
       <a href="https://github.com/username/projectname"><strong>Explore the docs »</strong></a>
    <br />
    <br />
@@ -71,7 +71,6 @@
 ## About the Project
 I created my project in android studio using java programming to create an AI assistant to assist users with IBM Watson speech to text, text to speech and their assistant.
 <!-- header image of project -->
-![image1][image1]
 
 ### Project Description
 
@@ -80,15 +79,19 @@ My project is designed and developed to assist users when they are struggeling t
 ### Built With
 
 * [Android Studio](path/to/technology/website)
+![image](https://user-images.githubusercontent.com/55394634/141642715-3d3cfe3b-d810-4b30-815a-8c336d223a2d.png)
 * [IBM Watson](path/to/technology/website)
+![image](https://user-images.githubusercontent.com/55394634/141642734-66b79676-7d73-4303-a24a-0076d1ccf5e8.png)
 * [Firebace](path/to/technology/website)
-* * [JAVA](path/to/technology/website)
+![image](https://user-images.githubusercontent.com/55394634/141642745-c4b4e0ed-1615-467d-a895-18dd767c6ffb.png)
+
+* [JAVA](path/to/technology/website)
 
 <!-- GETTING STARTED -->
 <!-- Make sure to add appropriate information about what prerequesite technologies the user would need and also the steps to install your project on their own mashines -->
 ## Getting Started
 
-The following instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+Create a new project on android studio
 
 ### Prerequisites
 
@@ -126,17 +129,16 @@ Run the following in the command-line to install all the required dependencies:
 <!-- You can add the links to all of your imagery at the bottom of the file as references -->
 ## Features and Functionality
 
-![image2][image2]
 ### Feature 1
 
 IBM chatbot, allows users to chat with a machine to get certain responses based of their reaction.
+![MarliCorreia_180234_Task_Two_Page_12](https://user-images.githubusercontent.com/55394634/141642780-92831e79-f1d9-4a5b-90ba-6100ce7d8666.jpg)
 
-![image3][image3]
 ### Feature 2
 
 IBM Speech to text, chatbot called Gill, does not only chat with users but she talks to them aswell, by almost reading her response to you
+![MarliCorreia_180234_Task_Two_Page_05](https://user-images.githubusercontent.com/55394634/141642791-bb9b6e7f-4466-43c7-ad71-79aa172b193d.jpg)
 
-![image4][image4]
 ### Feature 3
 
 IBM Text to speech, users can also talk to gill, using the recording button changing the users works to text to send message to the chatbot
@@ -158,8 +160,22 @@ I found mental health interesting due to me struggeling with anxiety and depress
 ![image6][image6]
 
 ### Wireframes
+![Categories](https://user-images.githubusercontent.com/55394634/141642808-5aa91d7d-2ecb-4e74-b261-013525f432e1.png)
+![Challenges – 1](https://user-images.githubusercontent.com/55394634/141642810-961f109e-18c8-45f6-b7c7-51778df5da1a.png)
+![Challenges](https://user-images.githubusercontent.com/55394634/141642813-53ea6d11-a612-447e-adfb-1a720e955aa3.png)
+![iPhone 12 Pro Max – 4](https://user-images.githubusercontent.com/55394634/141642815-3474fc49-4278-4958-aceb-1c6405ca1321.png)
+![iPhone 12 Pro Max – 5](https://user-images.githubusercontent.com/55394634/141642817-1e522134-1da9-473d-9e75-bd881deaf876.png)
+![iPhone 12 Pro Max – 6](https://user-images.githubusercontent.com/55394634/141642818-e67b04ef-a2ee-4fe0-b674-408971d8830c.png)
+![iPhone 12 Pro Max – 7](https://user-images.githubusercontent.com/55394634/141642819-ed365a30-427f-45cd-b391-6db6023072a1.png)
+![iPhone 12 Pro Max – 8](https://user-images.githubusercontent.com/55394634/141642821-8b4ece39-c24a-41b2-8e40-a1e2cc94e27d.png)
+![Login](https://user-images.githubusercontent.com/55394634/141642822-5bd0ec28-ffb0-4ae2-b1fb-b0d11bc5be7f.png)
+![Onboarding – 1](https://user-images.githubusercontent.com/55394634/141642825-5e0b813c-dd79-49ac-ba9f-cb4a488cff96.png)
+![Onboarding – 2](https://user-images.githubusercontent.com/55394634/141642827-f4c60b14-fcff-44a7-a2d0-354a6f977a2f.png)
+![Onboarding-1](https://user-images.githubusercontent.com/55394634/141642829-f731a6c5-3fe9-4c61-aea3-5f2a24ca4bb3.png)
+![Onboarding](https://user-images.githubusercontent.com/55394634/141642830-8cfef61f-3701-466a-96c9-c3c94585a3a7.png)
+![Sign Up](https://user-images.githubusercontent.com/55394634/141642832-e7290d62-7af0-4548-ba17-911c8158ae8e.png)
 
-![image7][image7]
+
 
 ### User-flow
 
@@ -186,8 +202,8 @@ The `Development Process` is the technical implementations and functionality don
 
 #### Challenges
 <!-- stipulated the challenges you faced with the project and why you think you faced it or how you think you'll solve it (if not solved) -->
-* Bugs.
-* Bugs.
+* Strugled with integrating AI assistant inside my project
+* Struggled with button functionality on onboardign screen
 
 ### Reviews & Testing
 <!-- stipulate how you've conducted testing in the form of peer reviews, feedback and also functionality testing, like unit tests (if applicable) -->
@@ -196,15 +212,10 @@ The `Development Process` is the technical implementations and functionality don
 
 `Peer Reviews` were conducted by my fellow students and lecturer. The following feedback I found useful:
 
-* Feedback one.
-* Feedback two.
+* Update project visually
+* Getting more responses to the user 
+* new introduction on every category
 
-#### Unit Tests
-
-`Unit Tests` were conducted to establish working functionality. Here are all the tests that were ran:
-
-* Test 1 of this functionality
-* Test 2 of this functionality
 
 ### Future Implementation
 <!-- stipulate functionality and improvements that can be implemented in the future. -->
